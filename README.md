@@ -1,6 +1,23 @@
-# Flux 2 API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/flux-2">
+    <h3 align="center">Flux 2 API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect Flux 2 fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/flux-2.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/flux-2"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/flux-2-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/flux-2)](https://skills.sh/runapi-ai/flux-2)
+
+</div>
+<br/>
 
 Generate images with Flux 2 Pro and Flex text-to-image and image-to-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Flux 2 through RunAPI.
 
