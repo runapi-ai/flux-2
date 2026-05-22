@@ -1,5 +1,7 @@
 # Flux 2 API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/flux-2)](https://skills.sh/runapi-ai/flux-2)
+
 Generate images with Flux 2 Pro and Flex text-to-image and image-to-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Flux 2 through RunAPI.
 
 The canonical agent file is `skills/flux-2/SKILL.md`.
@@ -7,7 +9,7 @@ The canonical agent file is `skills/flux-2/SKILL.md`.
 ## Install
 
 ```bash
-npx skills add runapi-ai/flux2 -g
+npx skills add runapi-ai/flux-2 -g
 ```
 
 Or manually: clone this repo and copy `skills/flux-2/` into your agent's skills directory.

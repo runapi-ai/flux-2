@@ -4,6 +4,17 @@ description: Generate images with Flux 2 Pro/Flex text-to-image and image-to-ima
 documentation: https://runapi.ai/models/flux-2
 provider_page: https://runapi.ai/providers/black-forest-labs
 catalog: https://runapi.ai/models
+metadata:
+  openclaw:
+    homepage: https://runapi.ai/models/flux-2
+    primaryEnv: RUNAPI_API_KEY
+    requires:
+      env:
+      - RUNAPI_API_KEY
+    envVars:
+    - name: RUNAPI_API_KEY
+      required: true
+      description: RunAPI API key from https://runapi.ai/api_keys.
 ---
 # @runapi.ai/flux-2 — RunAPI.ai Flux 2 image generation
 
