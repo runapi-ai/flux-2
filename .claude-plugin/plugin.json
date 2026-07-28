@@ -1,6 +1,6 @@
 {
   "name": "flux-2",
-  "version": "0.2.7",
+  "version": "0.3.0",
   "description": "RunAPI Flux 2 skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
   "skills": [
     {

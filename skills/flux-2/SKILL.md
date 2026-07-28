@@ -36,7 +36,7 @@ Generate and remix images with Flux 2 through RunAPI. The default path for one-o
 When integrating Flux 2 into an app, backend, worker, library, Rails service, Node service, Go service, webhook pipeline, or production workflow, start by checking the current SDK package and official usage. Confirm install commands, client methods (`create`, `get`, `run`), request fields, response shape, and error classes before using CLI help or raw HTTP examples. Use a RunAPI SDK package:
 
 - JavaScript / TypeScript: `@runapi.ai/flux-2`
-- Ruby: `runapi-flux_2`
+- Ruby: `runapi-flux-2`
 - Go: `github.com/runapi-ai/flux-2-sdk/go`
 
 ## CLI path
@@ -85,3 +85,5 @@ RunAPI-generated file URLs are temporary. Download and store generated images, v
 - [Flux 2 Pro remix image](https://runapi.ai/models/flux-2/pro-remix-image.md)
 - [Flux 2 Flex text to image](https://runapi.ai/models/flux-2/flex-text-to-image.md)
 - [Flux 2 Flex remix image](https://runapi.ai/models/flux-2/flex-remix-image.md)
+- [Flux 2 Max text to image](https://runapi.ai/models/flux-2/max-text-to-image.md)
+- [Flux 2 Max remix image](https://runapi.ai/models/flux-2/max-remix-image.md)
